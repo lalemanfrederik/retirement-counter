@@ -1,14 +1,14 @@
 body {
   font-family: Arial, sans-serif;
   text-align: center;
-  margin-top: 50px;
+  margin-top: 100px;
 }
 
 .counter {
-  margin: 20px;
+  margin: 50px;
 }
 
 p {
-  font-size: 2em;
+  font-size: 4em;
   font-weight: bold;
 }
